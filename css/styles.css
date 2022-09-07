@@ -1,0 +1,56 @@
+.student-info{
+    width: 80%;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-top: 10vh;
+}
+.student-header{
+    background-color: #670000;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.student-header h3{
+    color: #fff;
+}
+.student-info form{
+    padding: 15px;
+}
+.student-list{
+    margin-top: 10vh;
+}
+.student-list-header h3{
+    color: #fff;
+}
+.student-list-header{
+    background-color: #670000;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+.navbar{
+    background-color: #670000;
+}
+.content{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+img.student-img {
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+    margin-top: 10%;
+}
+.student-login{
+    width: 40%;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-top: 10vh;
+}
+.login-form{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
